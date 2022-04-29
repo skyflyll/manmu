@@ -17,7 +17,7 @@ module.exports = {
                     },
                     {
                         text: "JavaScript",
-                        link: "/javascript/index"
+                        link: ""
                     },
                     {
                         text: 'Vue',
@@ -64,10 +64,7 @@ module.exports = {
                 'book-list',
                 'book-list-world'
             ],
-            '/javascript/': [
-                "index",
-                'class'
-            ],
+            '/javascript/': [],
         },
         locales: {
             '/': {
