@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/manmu/",
   title: "manmu",
   description: "Just playing around.",
   // 主题配置
